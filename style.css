@@ -293,7 +293,7 @@ background-size: 90% 90%;
     position: absolute;
     width: 686px;
     height: 862px;
-    left: 55.5%;
+    left: 58%;
     top: 847px;
 
     background: url(https://i.imgur.com/SmEERpO.jpg);
@@ -303,7 +303,7 @@ background-size: 90% 90%;
 
   .tileVertical {
     position: absolute;
-    left: 53.7%;
+    left: 56.3%;
     top: 845px;
   }
 
@@ -316,8 +316,8 @@ background-size: 90% 90%;
 
   .salmonPic {
     position: absolute;
-    width: 375px;
-    height: 424px;
+    width: 420px;
+    height: 434px;
     left: 0px;
     top: 846px;
 
@@ -328,9 +328,9 @@ background-size: 90% 90%;
 
   .saladPic {
     position: absolute;
-    width: 400px;
-    height: 427px;
-    left: 342px;
+    width: 420px;
+    height: 434px;
+    left: 28.2%;
     top: 846.2px;
 
   background: url(https://i.imgur.com/PmTfHp0.jpg);
@@ -340,10 +340,10 @@ background-size: 90% 90%;
 
   .strawberryPic {
     position: absolute;
-    width: 375px;
+    width: 420px;
     height: 438px;
     left: 0px;
-    top: 1180px;
+    top: 1188px;
 
     background: url(https://i.imgur.com/lWyHUjp.jpg);
     background-repeat: no-repeat;
@@ -352,10 +352,10 @@ background-size: 90% 90%;
 
   .burgerPic {
     position: absolute;
-    width: 400px;
+    width: 420px;
     height: 438px;
-    left: 342px;
-    top: 1180px;
+    left: 28.2%;
+    top: 1188px;
 
     background: url(https://i.imgur.com/LA7poMB.jpg);
     background-repeat: no-repeat;
@@ -366,7 +366,7 @@ background-size: 90% 90%;
     position: absolute;
     width: 205px;
     height: 98px;
-    left: 845px;
+    left: 849px;
     top: 1750px;
 
     font-family: 'Overpass Mono', monospace;
@@ -382,10 +382,10 @@ background-size: 90% 90%;
 
 .line1 {
   position: absolute;
-  width: 390px;
-  height: 5px;
-  left: 759px;
-  top: 1837px;
+  width: 370px;
+  height: 3px;
+  left: 770px;
+  top: 1870px;
 
   background: #000000;
 }
@@ -396,7 +396,7 @@ background-size: 90% 90%;
     width: 590px;
     height: 235px;
     left: 670px;
-    top: 1870px;
+    top: 1900px;
 
     font-family: Parisienne;
     font-style: normal;
@@ -409,10 +409,10 @@ background-size: 90% 90%;
 
 .line2 {
   position: absolute;
-  width: 390px;
-  height: 5px;
-  left: 759px;
-  top: 2035px;
+  width: 370px;
+  height: 3px;
+  left: 770px;
+  top: 2070px;
 
   background: #000000;
 }
@@ -420,9 +420,9 @@ background-size: 90% 90%;
 .yellowBorder {
   position: absolute;
   width: 550px;
-  height: 400px;
+  height: 376px;
   left: 52px;
-  top: 1680px;
+  top: 1740px;
 
   background: #FFE400;
 } 
@@ -431,9 +431,9 @@ background-size: 90% 90%;
 .picAbout {
   position: absolute;
   width: 606px;
-  height: 465px;
+  height: 430px;
   left: 70px;
-  top: 1700px;
+  top: 1760px;
 
   background: url(https://i.imgur.com/1ZQdWgz.jpg);
   background-repeat: no-repeat;
