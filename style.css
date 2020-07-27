@@ -52,7 +52,7 @@ body {
   position: absolute;
   width: 100%;
   height: 275px;
-  left: 1px;
+  left: 0px;
   top: -16px;
   background: #000000;
   z-index: -1;
@@ -171,7 +171,7 @@ nav ul li a:hover:before {
 
 .mainPic {
 position: absolute;
-width: 1486px;
+width: 1600px;
 height: 905px;
 left: -25px;
 top: 30px;
@@ -462,6 +462,10 @@ background-size: 90% 90%;
   position: absolute;
   top: 2555px;
   left: 98px;
+}
+
+.phoneSVG2 {
+  visibility: hidden;
 }
 
 .number {
@@ -952,6 +956,7 @@ background-size: 90% 90%;
   position: absolute;
   top: 2750px;
   left: 10%;
+  visibility: visible;
 }
 
 
@@ -1431,6 +1436,7 @@ background-size: 90% 90%;
   position: absolute;
   top: 2750px;
   left: 10%;
+  visibility: visible;
 }
 
 
